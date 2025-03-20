@@ -407,7 +407,7 @@ background: #fff;
  .feedback-item{
     display: flex;
     flex-shrink:0;
-    
+  
 }
 .feedback-item .info .Member-name{
     margin: 18px;
